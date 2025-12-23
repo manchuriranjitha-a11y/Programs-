@@ -1,0 +1,7 @@
+a = int(input("A: "))
+b = int(input("B: "))
+
+print("Add:", a + b)
+print("Sub:", a - b)
+print("Mul:", a * b)
+print("Div:", a / b)
